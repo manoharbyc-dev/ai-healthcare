@@ -1,0 +1,14 @@
+# MIMIC patient data — must NOT be committed to a public repo
+*.csv
+
+# Large generated HTML figures
+*.html
+
+# Claude internal files
+.claude/
+
+# macOS
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
